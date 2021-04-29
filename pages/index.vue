@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        nuxt-demo-app
+        Corny Dad Jokes
       </h1>
       <div class="links">
         <a
